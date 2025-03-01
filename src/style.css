@@ -1,0 +1,28 @@
+.blok1 {
+    background-color: black;
+    width: 700px;
+    height: 1000px;
+    display: flex;
+    border: solid;
+    border-radius: 20px;
+
+}
+.blok2 {
+    background-color: grey;
+    width: 650px;
+    height: 900px;
+    margin: auto;
+}
+.panelobli {
+    background-color: black;
+    width: 600px;
+    height: 100px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.panelprzyciski {
+    background-color: grey;
+    border: solid 2px black;
+    width: ;
+}
